@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/poly/Servlet/DetailServlet.java=UTF-8
+encoding//src/main/java/com/poly/Servlet/FindServlet.java=UTF-8
+encoding//src/main/java/com/poly/Servlet/LoginServlet.java=UTF-8
+encoding//src/main/java/com/poly/Servlet/PageItemServlet.java=UTF-8
+encoding//src/main/java/com/poly/Servlet/ProfileServlet.java=UTF-8
+encoding//src/main/java/com/poly/Servlet/RegisterServlet.java=UTF-8
+encoding//src/main/java/com/poly/Servlet/forgetPassword.java=UTF-8
+encoding//src/main/java/com/poly/manager/EditTheLoai.java=UTF-8
+encoding//src/main/java/com/poly/manager/PhimServlet.java=UTF-8
+encoding//src/main/java/com/poly/manager/UsersManagementServlet.java=UTF-8
+encoding//src/main/webapp/manager/UsersManagement.jsp=UTF-8
+encoding//src/main/webapp/manager/favoritemanager.jsp=UTF-8
+encoding//src/main/webapp/user.jsp=UTF-8
+encoding//src/main/webapp/views/chanepassword.jsp=UTF-8
